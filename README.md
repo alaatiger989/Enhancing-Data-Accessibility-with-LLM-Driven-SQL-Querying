@@ -1,5 +1,7 @@
 # Enhancing-Data-Accessibility-with-LLM-Driven-SQL-Querying
 
+https://www.linkedin.com/feed/update/urn:li:activity:7228700597175148544?utm_source=share&utm_medium=member_desktop
+
 🌟 Enhancing Data Accessibility with LLM-Driven SQL Querying 🌟
 
 Unlocking insights from CSV data using natural language queries sounded like a straightforward task, but it turned into a journey full of challenges and learning. Here’s how we tackled it and what we achieved!
